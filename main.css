@@ -1,0 +1,20 @@
+h1{
+	text-align: center;
+	color: 982;
+}
+.uno{
+	border: 2px solid blue;
+	background-color: orange;
+	width: 60px;
+	height:60px;
+	margin:5px;
+}
+.largo{
+	background-color: orange;
+	width: 235px;
+	height:75px;
+	padding: 5px;
+}
+.tres{
+	display: inline-block;
+}
